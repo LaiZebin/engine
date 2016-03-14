@@ -14,11 +14,11 @@ int main(void) {
 	bool noramlRuing = true;
 	//bind socket
 	//listen
-	while(noramlRuing)
-	{
-		//onTimer
-		//netWork
-		//gobige collect
-	}
+//	while(noramlRuing)
+//	{
+//		//onTimer
+//		//netWork
+//		//gobige collect
+//	}
 	return EXIT_SUCCESS;
 }
